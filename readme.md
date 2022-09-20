@@ -13,4 +13,4 @@
 
 #### Проект пожно найти по ссылке
 
-https://ksenia-khait.github.io/russian-travel/
+https://ksenia-khait.github.io/how-to-learn/
